@@ -11,4 +11,5 @@ public class VK_UserController {
         System.out.println(vk_user.first_name + " " + vk_user.last_name);
         return  vk_user.first_name + "  " + vk_user.last_name;
     }
+    //deployment test
 }
